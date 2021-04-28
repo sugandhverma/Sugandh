@@ -5,3 +5,6 @@ Managing a project and creating branches
 
 changes done after analysis
 lines added 
+
+Thank you 
+for this session
